@@ -22,8 +22,8 @@ title: Tracker Pack list
 email: skarsnik@nyo.fr
 description: >- # this means to ignore newlines until "baseurl:"
   A page that list tracker pack available for emotracker/poptracker
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "trackerlist/" # the subpath of your site, e.g. /blog
+url: "https://skarsnik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: skarsnikus
 github_username:  Skarsnik
 
