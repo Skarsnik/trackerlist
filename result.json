@@ -1,0 +1,1970 @@
+{
+  "kh2fm_maptracker_reivax00hh": {
+    "bad-manifest": false,
+    "platform": "Playstation 2",
+    "version": "1.7.0.0",
+    "variants": {
+      "standard": {
+        "display_name": "Map Tracker"
+      },
+      "var_itemsonly": {
+        "display_name": "Items Only"
+      }
+    },
+    "name": "KH2FM GOA Randomizer Map Tracker",
+    "game": "Kingdom Hearts II",
+    "homepage": "https://github.com/Reivax00hh/EmotrackerPacks/blob/master/kh2fm_maptracker_reivax00hh/README.md",
+    "flags": null,
+    "version_url": "https://Reivax00hh.github.io/kh2fm_maptracker_reivax00hh.zip",
+    "author": "Reivax00hh, Televo"
+  },
+  "averge_pack_mm1": {
+    "variants": {
+      "items_only": {
+        "display_name": "Items-Only",
+        "flags": [
+          "chathud"
+        ]
+      },
+      "standard_map": {
+        "display_name": "Standard with Map",
+        "flags": [
+          "chathud",
+          "map",
+          "pins"
+        ]
+      }
+    },
+    "author": "Seraphin Eveles & Mike Trethewey",
+    "game": "Axiom Verge",
+    "flags": [
+    ],
+    "platform": "pc",
+    "name": "Axiom Verge Randomizer",
+    "homepage": "https://github.com/miketrethewey/averge_pack_mm1/blob/master/README.md",
+    "version_url": "https://github.com/miketrethewey/averge_pack_mm1/releases/download/v1.5.123/averge_pack_mm1.zip",
+    "version": "1.5.123",
+    "bad-manifest": false
+  },
+  "REmaster_itemsonly_deserteagle417": {
+    "name": "REmaster Randomizer - Items Only",
+    "version": "1.1.0.2",
+    "game": "Resident Evil HD Remaster Randomizer",
+    "version_url": "http://deserteagle417.github.io/REmaster_itemsonly_deserteagle417.zip",
+    "platform": null,
+    "variants": null,
+    "flags": null,
+    "author": "deserteagle417",
+    "bad-manifest": false
+  },
+  "mmrando_iyansiwik": {
+    "game": "Majora's Mask Randomizer",
+    "platform": null,
+    "bad-manifest": false,
+    "version": "1.0.0",
+    "variants": null,
+    "author": "Iyan Siwik",
+    "flags": null,
+    "name": "Majora's Mask Randomizer Tracker",
+    "version_url": "https://iyansiwik.github.io/packages/mmrando_iyansiwik.zip"
+  },
+  "hkr3_fantallis": {
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "game": "Hollow Knight Randomizer",
+    "bad-manifest": false,
+    "variants": {
+      "standard": {
+        "display_name": "Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Items Only"
+      }
+    },
+    "version": "1.1.0",
+    "platform": null,
+    "name": "Hollow Knight Randomizer 3",
+    "author": "Fantallis",
+    "homepage": "https://github.com/qadan/hollow_knight_randomizer_tracker/",
+    "version_url": "https://github.com/qadan/hollow_knight_randomizer_tracker/releases/latest/download/hkr3_fantallis.zip"
+  },
+  "ootrando_overworldmap_hamsda": {
+    "variants": {
+      "var_keysanity": {
+        "display_name": "Map Tracker (Keysanity)"
+      },
+      "var_itemsonly_keysanity": {
+        "display_name": "Items Only (Keysanity)"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      },
+      "var_entrance": {
+        "display_name": "Entrance Randomizer"
+      },
+      "var_entrance_keysanity": {
+        "display_name": "Entrance Randomizer (Keysanity)"
+      },
+      "var_minimalist": {
+        "display_name": "Items Only (minimal)"
+      },
+      "var_itemsonly": {
+        "display_name": "Items Only"
+      }
+    },
+    "platform": null,
+    "author": "Hamsda",
+    "homepage": "https://github.com/Hamsda/EmoTrackerPacks/blob/master/ootrando_overworldmap_hamsda/README.md",
+    "name": "OoT Randomizer Map Tracker",
+    "bad-manifest": false,
+    "version_url": "https://hamsda.github.io/EmoTrackerPacks/ootrando_overworldmap_hamsda.zip",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "game": "Ocarina of Time Randomizer",
+    "version": "3.7.3.0"
+  },
+  "por_rando_johnny": {
+    "author": "JohnnyGo, JustLeeBelmont",
+    "game": "Castlevania: Portrait of Ruin",
+    "name": "Castlevania: Portrait of Ruin Randomizer",
+    "bad-manifest": false,
+    "version_url": "https://github.com/Johnny-Go/PortraitOfRuinTracker/releases/download/v1.1.0/PortraitOfRuinTracker.zip",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "homepage": "https://github.com/Johnny-Go/PortraitOfRuinTracker",
+    "platform": "Nintendo DS",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "version": "1.1.0"
+  },
+  "mp1rando_saucerelic": {
+    "variants": {
+      "v_itemsonly": {
+        "display_name": "Items Only"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      }
+    },
+    "version": "1.1.0.6",
+    "name": "Metroid Prime Randomizer",
+    "bad-manifest": false,
+    "version_url": "https://saucerelic.github.io/mp1rando_saucerelic.zip",
+    "platform": null,
+    "author": "SauceRelic",
+    "game": "Metroid Prime Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ]
+  },
+  "oriwotwrandotracker_bastixx": {
+    "variants": {
+      "standard": {
+        "display_name": "Skills + Wisps"
+      },
+      "all_trackables": {
+        "display_name": "All trackables + Map"
+      }
+    },
+    "version": "1.0.3",
+    "bad-manifest": false,
+    "platform": null,
+    "name": "OriWotW randomiser tracker",
+    "author": "Bastixx",
+    "game": "Ori and the Will of the Wisps",
+    "version_url": "https://bastixx.github.io/OriWotWEmoTracker/oriwotwrandotracker_bastixx.zip",
+    "flags": null
+  },
+  "alttprando_overworld_glitches_noboots_open_jaysee87": {
+    "variants": null,
+    "platform": null,
+    "name": "ALTTP Randomizer - Overworld Glitches (No Autoboots) - Open Mode (V29)",
+    "author": "JaySee87",
+    "game": "A Link to the Past Randomizer",
+    "version_url": "http://jaysee87.github.io/packages/alttprando_overworld_glitches_noboots_open_jaysee87.zip",
+    "flags": null,
+    "bad-manifest": false,
+    "version": "1.0.1.1"
+  },
+  "dragonwarrior_theamusedminiature": {
+    "platform": null,
+    "author": "theamusedminiature",
+    "variants": {
+      "items_and_map_custom": {
+        "display_name": "Items / Map"
+      }
+    },
+    "bad-manifest": false,
+    "flags": [
+      "map",
+      "items"
+    ],
+    "version": "1.0.0.0",
+    "game": "Dragon Warrior",
+    "name": "Dragon Warrior Randomizer",
+    "version_url": "https://theamusedminiature.github.io/Trackers/dragonwarrior_theamusedminiature.zip"
+  },
+  "prime2_xenowars_emblem_anxiouscrescendo": {
+    "version": "1.2.3",
+    "version_url": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars_emblem_anxiouscrescendo.zip",
+    "name": "Metroid Prime 2: Echoes Randomizer Tracker",
+    "author": "XenoWars, Emblem, anxiousCrescendo",
+    "platform": null,
+    "variants": {
+      "v_itemtrack": {
+        "display_name": "Item Tracker"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      },
+      "v_extras": {
+        "display_name": "Extra Settings"
+      }
+    },
+    "game": "Metroid Prime 2: Echoes",
+    "bad-manifest": false,
+    "flags": [
+      "map",
+      "pins"
+    ]
+  },
+  "z2rando_dududedude": {
+    "version": "1.4.3.4",
+    "name": "Z2R Tracker",
+    "author": "Dudude Dude",
+    "game": "Zelda 2 Randomizer",
+    "version_url": "https://dududedude.github.io/Dudude-s-Tinkering/z2rando_dududedude.zip",
+    "variants": {
+      "mapping": {
+        "display_name": "Items, Locations and Simple Overworld Mapping"
+      },
+      "standard": {
+        "display_name": "Items and Locations"
+      },
+      "oldmapping": {
+        "display_name": "Items, Locations and Simple Overworld Mapping (Old version)"
+      }
+    },
+    "flags": null,
+    "platform": "nes",
+    "bad-manifest": false
+  },
+  "tmcrando_maptracker_deoxis_beta": {
+    "name": "Minish Cap Randomizer Map Tracker beta - Help (F1)",
+    "version_url": "https://minish.deoxis9001.tk/zip/tmcrando_maptracker_deoxis_beta.zip",
+    "platform": "gba",
+    "variants": {
+      "Standard": {
+        "display_name": "Standard Map Tracker - Broadcast (F2) Vertical"
+      },
+      "items_only_h": {
+        "display_name": "Standard Items Tracker - Horizontal"
+      },
+      "items_only": {
+        "display_name": "Standard Items Tracker - Vertical"
+      },
+      "Standard_h": {
+        "display_name": "Standard Map Tracker - Broadcast (F2) Horizontal"
+      }
+    },
+    "game": "Minish Cap Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ],
+    "version": "0.0.0.3",
+    "homepage": "https://minish.deoxis9001.tk/index.php",
+    "author": "Deoxis9001",
+    "bad-manifest": false
+  },
+  "mf_item_tracker_ultinaruto": {
+    "variants": {
+      "standard": {
+        "display_name": "Standard"
+      }
+    },
+    "bad-manifest": false,
+    "game": "Metroid Fusion Randomizer",
+    "author": "UltiNaruto & Jakoliath",
+    "platform": "gba",
+    "name": "Metroid Fusion Item Tracker",
+    "version_url": "https://ultinaruto.github.io/mf_item_tracker_ultinaruto/mf_item_tracker_ultinaruto.zip",
+    "flags": [
+    ],
+    "version": "1.2.0.0"
+  },
+  "HKR_ItemsOnly_cliffordtbrd": {
+    "bad-manifest": false,
+    "platform": null,
+    "variants": null,
+    "version": "1.0.0.0",
+    "version_url": "http://jaysee87.github.io/packages/hkr_itemsonly_cliffordtbrd.zip",
+    "game": "Hollow Knight Randomizer",
+    "name": "Hollow Knight Randomizer - Items Only",
+    "flags": null,
+    "author": "CliffordTBRD"
+  },
+  "alttpr_emotracker_emosaru": {
+    "name": "EmoTracker Official ALTTP Support",
+    "author": "EmoSaru",
+    "platform": "snes",
+    "version": "1.0.7.9",
+    "flags": [
+      "official",
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "variants": {
+      "items_only": {
+        "display_name": "Item Tracker"
+      },
+      "items_only_keys": {
+        "display_name": "Item Tracker w/ Keys"
+      },
+      "inverted": {
+        "display_name": "Inverted - Standard Map Tracker"
+      },
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "inverted_keysanity": {
+        "display_name": "Inverted - Keysanity Map Tracker"
+      },
+      "keysanity": {
+        "display_name": "Keysanity Map Tracker"
+      }
+    },
+    "bad-manifest": false,
+    "version_url": "https://emotracker.net/service/packages/alttpr_emotracker_emosaru.zip",
+    "game": "A Link to the Past Randomizer"
+  },
+  "hkr_fullmap_cliffordtbrd": {
+    "author": "CliffordTBRD",
+    "version_url": "http://jaysee87.github.io/packages/hkr_fullmap_cliffordtbrd.zip",
+    "variants": null,
+    "game": "Hollow Knight Randomizer",
+    "version": "1.0.0.0",
+    "flags": null,
+    "platform": null,
+    "bad-manifest": false,
+    "name": "Hollow Knight Randomizer - Map Tracker"
+  },
+  "ff1_rando_jat": {
+    "author": "jat2980, DarkmoonEX, HaateXIII, Mister Ibis",
+    "variants": {
+      "shardHunt": {
+        "display_name": "Shard Hunt Map Tracker"
+      },
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "standardNoMap": {
+        "display_name": "Standard Tracker"
+      },
+      "shardHuntNoMap": {
+        "display_name": "Shard Hunt Tracker"
+      }
+    },
+    "version_url": "https://jtoyoda.github.io/ff1_rando_jat.zip",
+    "game": "Final Fantasy",
+    "name": "Final Fantasy 1 Randomizer",
+    "version": "1.4.0.3",
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "platform": "nes",
+    "bad-manifest": false
+  },
+  "smrpg_star_locations_key_items_beenieweenie": {
+    "variants": null,
+    "platform": null,
+    "version_url": "https://beenieweenie.github.io/smrpg_star_locations_key_items_beenieweenie.zip",
+    "game": "Super Mario RPG Randomizer",
+    "bad-manifest": false,
+    "version": "1.0.0.4",
+    "name": "SMRPG Open Randomizer Tracker",
+    "flags": null,
+    "author": "BeenieWeenie"
+  },
+  "pughud_oot": {
+    "platform": "n64",
+    "game": "Ocarina of Time Randomizer",
+    "author": "Fouton",
+    "version_url": "https://Fouton.github.io/PugHUD_for_OoT.zip",
+    "bad-manifest": false,
+    "name": "PugHUD for OoT",
+    "flags": [
+      "chathud",
+      "autotracker"
+    ],
+    "variants": {
+      "classic": {
+        "display_name": "Chests"
+      },
+      "nochests": {
+        "display_name": "No Chests"
+      }
+    },
+    "version": "1.0.2.0"
+  },
+  "soulblazer-wolfman": {
+    "platform": "snes",
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ],
+    "version": "2.1.0.0",
+    "variants": {
+      "items_minimal-map_none": {
+        "display_name": "Item (Minimal) Only Tracker"
+      },
+      "items_skarsnik-map_none": {
+        "display_name": "Item (Skarsnik) Only Tracker"
+      },
+      "items_equipment-map_simple": {
+        "display_name": "Item (Equipment) & Map Tracker"
+      },
+      "items_minimal-map_simple": {
+        "display_name": "Item (Minimal) & Map Tracker"
+      },
+      "items_equipment-map_none": {
+        "display_name": "Item (Equipment) Only Tracker"
+      }
+    },
+    "game": "Soul Blazer Randomizer",
+    "author": "Wolfman2000",
+    "version_url": "https://wolfman2000.github.io/trackers/soulblazer-wolfman.zip",
+    "bad-manifest": false,
+    "name": "Soul Blazer Rando Tracker"
+  },
+  "la_mulana_rando": {
+    "flags": null,
+    "homepage": "https://github.com/blasteg/blasteg.github.io/blob/master/README.md",
+    "game": "La Mulana",
+    "version": "1.3.0.0",
+    "version_url": "http://dl.dropboxusercontent.com/s/vhuxlzzgi1j04y6/lamulana_maptrack_entrance.zip",
+    "name": "La-mulana Remake Randomizer",
+    "platform": null,
+    "bad-manifest": false,
+    "author": "Blasteg, An Orange, Wolfman2000",
+    "variants": {
+      "transition_items_only": {
+        "display_name": "Transition/Entrance Randomized Item Only Tracker"
+      },
+      "standard_items_only": {
+        "display_name": "Standard Item Only Tracker"
+      },
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "transition": {
+        "display_name": "Transition/Entrance Randomized Map Tracker"
+      }
+    }
+  },
+  "ffiv_fe_key_items_jaysee87": {
+    "version": "1.0.0.0",
+    "flags": null,
+    "platform": null,
+    "author": "Jaysee87",
+    "game": "FFIV Free Enterprise Randomizer",
+    "variants": null,
+    "name": "FFIV Free Enterprise Randomizer - Key Items Only",
+    "bad-manifest": false,
+    "version_url": "http://jaysee87.github.io/packages/ffiv_fe_key_items_jaysee87.zip"
+  },
+  "RE2classic_deserteagle417": {
+    "version": "1.0.2",
+    "flags": [
+      "chathud"
+    ],
+    "variants": {
+      "weapons": {
+        "display_name": "Item & Weapon Tracker"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      },
+      "expanded": {
+        "display_name": "Expanded Item & Weapon Tracker"
+      }
+    },
+    "bad-manifest": false,
+    "version_url": "http://deserteagle417.github.io/RE2classic_deserteagle417.zip",
+    "name": "RE2 Randomizer - Item Tracker",
+    "author": "deserteagle417",
+    "game": "Resident Evil 2 Randomizer",
+    "platform": null
+  },
+  "CT_JoT_TheBigSalarius": {
+    "author": "TheBigSalarius, Aeralis & Anguirel",
+    "homepage": "https://github.com/Aeralis/Jets-of-Time-Tracker/",
+    "variants": {
+      "lost_world_items": {
+        "display_name": "Item Tracker (Lost Worlds)"
+      },
+      "chronosanity": {
+        "display_name": "Chronosanity"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      },
+      "lost_worlds": {
+        "display_name": "Map Tracker (Lost Worlds)"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      }
+    },
+    "platform": "snes",
+    "name": "Jets of Time Map Tracker",
+    "bad-manifest": false,
+    "game": "Chrono Trigger Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ],
+    "version_url": "https://github.com/Aeralis/Jets-of-Time-Tracker/raw/master/CT_JoT_TheBigSalarius.zip",
+    "version": "2.0.2"
+  },
+  "mzmr_tracker_drifteroftime": {
+    "version_url": "https://github.com/DrifterOfTime/EmoTrackers/releases/download/MZMR/mzmr_tracker_v1.0.0.zip",
+    "author": "DrifterOfTime",
+    "game": "Metroid: Zero Mission Randomizer",
+    "version": "1.0.0",
+    "platform": null,
+    "name": "Drifter's MZMR Tracker",
+    "homepage": "https://github.com/DrifterOfTime/EmoTrackers/",
+    "bad-manifest": false,
+    "variants": {
+      "v_normal": {
+        "display_name": "Normal Difficulty"
+      },
+      "v_hard": {
+        "display_name": "Hard Difficulty"
+      }
+    },
+    "flags": null
+  },
+  "ebpks": {
+    "bad-manifest": true,
+    "version": "1.6",
+    "game": "Earthbound (Mother 2)",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "version_url": "https://github.com/HypotheticallyGreg/PKScrambleTracker/raw/main/ebpks.zip",
+    "name": "PKScramble Tracker",
+    "homepage": "https://github.com/HypotheticallyGreg/PKScrambleTracker/"
+  },
+  "dread_duncathan": {
+    "version": "0.2.1",
+    "variants": {
+      "progressive_items": {
+        "display_name": "Progressive Item Tracker (No Bosses)"
+      },
+      "progressive_items_bosses": {
+        "display_name": "Progressive Item Tracker"
+      },
+      "full_items_bosses": {
+        "display_name": "Full Item Tracker"
+      },
+      "full_items": {
+        "display_name": "Full Item Tracker (No Bosses)"
+      }
+    },
+    "author": "duncathan_salt, SkyTheLucario",
+    "flags": [
+    ],
+    "name": "Metroid Dread Item Tracker",
+    "version_url": "https://duncathan.github.io/csr-open-mode-tracker/dread_duncathan.zip",
+    "bad-manifest": false,
+    "platform": "Nintendo Switch",
+    "game": "Metroid Dread"
+  },
+  "REmaster_deserteagle417": {
+    "version_url": "http://deserteagle417.github.io/REmaster_deserteagle417.zip",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "bad-manifest": false,
+    "author": "deserteagle417",
+    "game": "Resident Evil HD Remaster Randomizer",
+    "version": "3.0.0.1",
+    "platform": null,
+    "variants": {
+      "jill": {
+        "display_name": "Map Tracker - Jill"
+      },
+      "chris": {
+        "display_name": "Map Tracker - Chris"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "name": "REmaster Randomizer - Item and Map Tracker"
+  },
+  "mmrando_pink": {
+    "version_url": "https://github.com/PinkSwitch/Majora-s-Mask-Randomizer-Map-Tracker/blob/master/mmrando_pink.zip?raw=true",
+    "name": "Majora's Mask Randomizer Map Tracker",
+    "version": "5.1.1",
+    "flags": null,
+    "platform": null,
+    "homepage": "https://github.com/PinkSwitch/Majora-s-Mask-Randomizer-Map-Tracker/",
+    "variants": {
+      "var_accessible": {
+        "display_name": "Accessible Settings"
+      },
+      "var_maptracker": {
+        "display_name": "Map Tracker"
+      },
+      "var_minimal": {
+        "display_name": "Minimal"
+      },
+      "var_standard": {
+        "display_name": "Standard"
+      }
+    },
+    "game": "Majora's Mask Randomizer",
+    "author": "Rikkukun, Pink Switch, and epicYoshi",
+    "bad-manifest": false
+  },
+  "crystalis_codegorilla": {
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "author": "CodeGorilla",
+    "homepage": "https://github.com/Ars-Ignis/crystalis-randomizer-tracker#readme",
+    "platform": null,
+    "version": "1.2.0",
+    "name": "Crystalis Randomizer",
+    "variants": {
+      "items_and_map_custom": {
+        "display_name": "Map Tracker"
+      },
+      "items_and_map_chat_hud": {
+        "display_name": "ChatHUD Compatible Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "version_url": "https://ars-ignis.github.io/repository/crystalis_codegorilla.zip",
+    "game": "Crystalis",
+    "bad-manifest": false
+  },
+  "ffiv_fe_complete_magomerlin": {
+    "platform": null,
+    "version_url": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/FF4FE/ffiv_fe_complete_magomerlin.zip",
+    "name": "FFIV FE Randomizer - Complete",
+    "bad-manifest": false,
+    "author": "MagoMerlin",
+    "homepage": "https://magomerlin.github.io/FF4FE/README.html",
+    "variants": {
+      "standart_map": {
+        "display_name": "Chars, Items, Bosses and Map Tracker"
+      },
+      "standart": {
+        "display_name": "Chars, Items and Bosses"
+      },
+      "standart_local": {
+        "display_name": "Chars, Items and Bosses w/ Locations"
+      }
+    },
+    "game": "FFIV Free Enterprise Randomizer",
+    "version": "1.1.3.3",
+    "flags": [
+      "chathud",
+      "map",
+      "pins"
+    ]
+  },
+  "pughud": {
+    "game": "A Link to the Past Randomizer",
+    "version": "1.1.2.8",
+    "flags": [
+      "chathud",
+      "autotracker"
+    ],
+    "bad-manifest": false,
+    "variants": {
+      "doorrando": {
+        "display_name": "Door Rando"
+      },
+      "minikey": {
+        "display_name": "Mini Keysanity"
+      },
+      "mini": {
+        "display_name": "Mini"
+      },
+      "keysanity": {
+        "display_name": "Keysanity"
+      },
+      "classic": {
+        "display_name": "Classic"
+      }
+    },
+    "platform": "snes",
+    "name": "PugHUD",
+    "version_url": "https://Fouton.github.io/PugHUD.zip",
+    "author": "Fouton"
+  },
+  "lemonkong_albwr_tracker": {
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "platform": "3DS",
+    "version": "3.1.3",
+    "version_url": "https://rickfay.github.io/ALBW-Randomizer-Tracker/lemonkong_albwr_tracker.zip",
+    "author": "LemonKong",
+    "name": "Z17 - ALBW Randomizer Tracker",
+    "bad-manifest": false,
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "variants": {
+      "items_only": {
+        "display_name": "Items Only"
+      },
+      "standard": {
+        "display_name": "Overworld + Dungeon Maps"
+      }
+    }
+  },
+  "multipurpose": {
+    "version_url": "https://Fouton.github.io/multipurpose.zip",
+    "bad-manifest": false,
+    "variants": null,
+    "platform": "PC",
+    "version": "1.0.0.0",
+    "author": "Fouton",
+    "game": "Other",
+    "flags": null,
+    "name": "Multi-Purpose Counters"
+  },
+  "ctrando_aeralis": {
+    "name": "Wings of Time Map Tracker",
+    "platform": "snes",
+    "author": "Aeralis",
+    "game": "Chrono Trigger Randomizer",
+    "variants": {
+      "items_only": {
+        "display_name": "Item Tracker"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      }
+    },
+    "version_url": "https://github.com/Aeralis/Wings-of-Time-Tracker/raw/master/ctrando_aeralis.zip",
+    "bad-manifest": false,
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "homepage": "https://github.com/Aeralis/Wings-of-Time-Tracker/",
+    "version": "1.0.2"
+  },
+  "alttprando_overworld_glitches_open_jaysee87": {
+    "bad-manifest": false,
+    "platform": null,
+    "flags": null,
+    "version_url": "http://jaysee87.github.io/packages/alttprando_overworld_glitches_open_jaysee87.zip",
+    "variants": null,
+    "name": "ALTTP Randomizer - Overworld Glitches - Open Mode (V29)",
+    "author": "JaySee87",
+    "version": "1.0.1.1",
+    "game": "A Link to the Past Randomizer"
+  },
+  "smdash_dorkmasterflek": {
+    "version_url": "https://dorkmasterflek.github.io/emotracker/smdash_dorkmasterflek.zip",
+    "game": "Super Metroid Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "author": "Dorkmaster Flek",
+    "bad-manifest": false,
+    "platform": "snes",
+    "version": "1.0.2",
+    "name": "Super Metroid DASH Randomizer Map Tracker",
+    "variants": null
+  },
+  "ff5cd_strizer86": {
+    "variants": {
+      "mintracker": {
+        "display_name": "Min Tracker"
+      },
+      "standard": {
+        "display_name": "Full Tracker"
+      },
+      "slimtracker": {
+        "display_name": "Slim Tracker"
+      },
+      "midtracker": {
+        "display_name": "Mid Tracker"
+      }
+    },
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ],
+    "platform": "snes",
+    "version": "1.2.1.2",
+    "author": "strizer86",
+    "name": "FFV Career Day (V1.0 Logic)",
+    "game": "Final Fantasy V",
+    "bad-manifest": false,
+    "version_url": "https://strizer86.github.io/ff5cd_strizer86.zip"
+  },
+  "alttpr_entrance_ninban": {
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "bad-manifest": false,
+    "variants": {
+      "standard": {
+        "display_name": "Crossworld Map Tracker"
+      },
+      "keysanity": {
+        "display_name": "Crossworld + Keysanity Map Tracker"
+      }
+    },
+    "author": "Ninban & Fylion",
+    "version": "1.1.1.0",
+    "name": "ALTTPR Entrance Randomizer Map Tracker",
+    "game": "A Link to the Past Randomizer",
+    "version_url": "https://ninban.github.io/emotracker/alttpr_entrance_ninban.zip",
+    "platform": null
+  },
+  "alttpr_codetracker_codemann8": {
+    "bad-manifest": false,
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "version_url": "https://github.com/codemann8/alttpr_codetracker_codemann8/releases/download/3.0.4.1/alttpr_codetracker_codemann8.zip",
+    "version": "3.0.4.1",
+    "platform": "snes",
+    "author": "codemann8",
+    "game": "A Link to the Past Randomizer",
+    "variants": {
+      "full_tracker": {
+        "display_name": "Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Item/Key Tracker"
+      },
+      "vanilla": {
+        "display_name": "Vanilla/ROM Hack Item Tracker"
+      }
+    },
+    "name": "CodeTracker Full Tracker",
+    "homepage": "https://github.com/codemann8/alttpr_codetracker_codemann8/blob/master/README.md"
+  },
+  "pape-items": {
+    "game": "Paper Mario",
+    "bad-manifest": false,
+    "flags": null,
+    "author": "Fouton",
+    "name": "Paper Mario Item Tracker",
+    "version_url": "https://Fouton.github.io/pape-items.zip",
+    "version": "1.0.0.7",
+    "variants": {
+      "startop": {
+        "display_name": "Stars Ontop"
+      },
+      "large": {
+        "display_name": "Separated Items"
+      },
+      "chapter": {
+        "display_name": "Chapter Seperation"
+      }
+    },
+    "platform": "n64"
+  },
+  "tmcr_maptracker_candycrystal": {
+    "name": "Minish Cap Randomizer Map Tracker",
+    "homepage": "",
+    "author": "CandyCrystal",
+    "version_url": "https://github.com/CandyCrystal/CandyCrystal_TMCR_Map_Tracker/releases/download/v0.6.1.5/CandyCrystal_TMCR_Map_Tracker.zip",
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ],
+    "version": "0.6.1.5",
+    "game": "Minish Cap Randomizer",
+    "platform": "gba",
+    "bad-manifest": false,
+    "variants": {
+      "standard": {
+        "display_name": "Map Tracker"
+      },
+      "standard_horizontal": {
+        "display_name": "Map Tracker - Items on Bottom"
+      }
+    }
+  },
+  "mmr_overworldmap_bladefangft_tekky": {
+    "author": "BladeFangFT & Tekky",
+    "version": "2.0.0.0",
+    "platform": null,
+    "game": "Majora's Mask Randomizer",
+    "bad-manifest": false,
+    "variants": {
+      "var_expanded": {
+        "display_name": "Expanded Map Tracker"
+      },
+      "var_items_only": {
+        "display_name": "Items Only Tracker"
+      },
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      }
+    },
+    "version_url": "https://teknoanonymous.github.io/MMR-Map-Tracker/mmr_overworldmap_bladefangft_tekky.zip",
+    "name": "MM Randomizer Map Tracker",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ]
+  },
+  "terratracker": {
+    "author": "DLDarklink, Nethraz",
+    "version_url": "https://dldarklink.github.io/Terranigma%20Randomizer.zip",
+    "version": "1.0.6",
+    "game": "Terranigma Randomizer",
+    "platform": null,
+    "name": "Terranigma Randomizer Tracker",
+    "bad-manifest": false,
+    "variants": {
+      "major": {
+        "display_name": "Major Items & Locations"
+      },
+      "classic": {
+        "display_name": "Items Only"
+      },
+      "lexhud": {
+        "display_name": "LexHUD"
+      }
+    },
+    "flags": null
+  },
+  "ootrando_raikaru": {
+    "variants": {
+      "atz_compact_keysanity": {
+        "display_name": "Atz Compact + Keysanity"
+      },
+      "standard": {
+        "display_name": "Standard"
+      },
+      "atz_compact": {
+        "display_name": "Atz Compact"
+      },
+      "advanced": {
+        "display_name": "Advanced"
+      },
+      "keysanity": {
+        "display_name": "Keysanity"
+      }
+    },
+    "bad-manifest": false,
+    "flags": [
+      "chathud"
+    ],
+    "name": "OoT Rando Item Trackers",
+    "platform": null,
+    "version": "8.2",
+    "author": "Raikaru & Atz",
+    "version_url": "https://raikaru13.github.io/ootrando_raikaru/ootrando_raikaru.zip",
+    "game": "Ocarina of Time Randomizer"
+  },
+  "crystalis_crossproduct": {
+    "version_url": "https://crossproduct42.github.io/storage/crystalis_crossproduct.zip",
+    "name": "Crystalis Randomizer",
+    "variants": {
+      "items_and_map_custom": {
+        "display_name": "Items / Map (custom flags)"
+      },
+      "items_only": {
+        "display_name": "Items Only"
+      },
+      "items_and_locations": {
+        "display_name": "Items with BG Toggle"
+      },
+      "items_and_map_intermediate": {
+        "display_name": "Items / Map (Intermediate)"
+      }
+    },
+    "game": "Crystalis Randomizer",
+    "version": "1.2.0",
+    "flags": [
+      "chathud",
+      "map"
+    ],
+    "platform": null,
+    "bad-manifest": false,
+    "author": "crossproduct"
+  },
+  "dos_rando_johnny": {
+    "bad-manifest": false,
+    "author": "JohnnyGo, JustLeeBelmont",
+    "name": "Castlevania: Dawn of Sorrow Randomizer",
+    "version_url": "https://github.com/Johnny-Go/DawnOfSorrowTracker/releases/download/v1.1.0/DawnOfSorrowTracker.zip",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "version": "1.1.0",
+    "platform": "Nintendo DS",
+    "homepage": "https://github.com/Johnny-Go/DawnOfSorrowTracker",
+    "game": "Castlevania: Dawn of Sorrow",
+    "flags": [
+      "map",
+      "pins"
+    ]
+  },
+  "ffv_careerday_doicm": {
+    "variants": {
+      "map": {
+        "display_name": "Key Item, Boss Location, Item and Shop Tracker w/ Map"
+      },
+      "bosses": {
+        "display_name": "Key Item & Bosses Tracker"
+      },
+      "standard": {
+        "display_name": "Key Item & Boss Location Tracker"
+      }
+    },
+    "author": "Doicm, RoryExtraLife",
+    "version_url": "https://doicm.github.io/ffv_careerday_doicm.zip",
+    "version": "1.0.2.3",
+    "platform": null,
+    "bad-manifest": false,
+    "game": "Final Fantasy V: Career Day",
+    "name": "FFV Career Day - Complete",
+    "flags": null
+  },
+  "smredesignrando": {
+    "name": "Super Metroid Redesign Randomizer Map Tracker",
+    "game": "Super Metroid",
+    "platform": null,
+    "flags": [
+      "map"
+    ],
+    "bad-manifest": false,
+    "version_url": "https://komarulon.github.io/SuperMetroidRedesignRandomizer/smredesignrando.zip",
+    "variants": null,
+    "version": "1.0.0.4",
+    "author": "Komaru"
+  },
+  "mpsuper": {
+    "platform": "switch",
+    "version": "1.0.0.8",
+    "variants": {
+      "horizontal": {
+        "display_name": "Horizontal"
+      },
+      "horizontal-hori": {
+        "display_name": "Horizontal (Horizontal Broadcast)"
+      },
+      "vertical": {
+        "display_name": "Vertical"
+      },
+      "no-rich": {
+        "display_name": "No Rich Bonus"
+      },
+      "no-rich-hori": {
+        "display_name": "No Rich Bonus (Horizontal Broadcast)"
+      },
+      "vertical-hori": {
+        "display_name": "Vertical (Horizontal Broadcast)"
+      }
+    },
+    "author": "Fouton",
+    "game": "Mario Party Superstars",
+    "bad-manifest": false,
+    "flags": null,
+    "version_url": "https://Fouton.github.io/mpsuper.zip",
+    "name": "Mario Party: Bonus Stars"
+  },
+  "smalttprando_gilgatex": {
+    "version": "3.6.1",
+    "platform": "snes",
+    "bad-manifest": false,
+    "game": "Super Metroid + LTTP Randomizer",
+    "variants": {
+      "keysanity": {
+        "display_name": "Keysanity"
+      },
+      "bizhawk_keysanity": {
+        "display_name": "Bizhawk Keysanity"
+      },
+      "bizhawk_standard": {
+        "display_name": "Bizhawk Standard"
+      },
+      "standard": {
+        "display_name": "Standard"
+      }
+    },
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "version_url": "https://dorkmasterflek.github.io/emotracker/smalttprando_gilgatex.zip",
+    "author": "Dorkmaster Flek & Ninban & gilgatex",
+    "name": "Super Metroid and ALTTP Randomizer Map Tracker"
+  },
+  "tmcrando_maptracker_deoxis": {
+    "version_url": "https://minish.deoxis9001.tk/zip/tmcrando_maptracker_deoxis.zip",
+    "variants": {
+      "Standard_h": {
+        "display_name": "Standard Map Tracker - Broadcast (F2) Horizontal"
+      },
+      "items_only_h": {
+        "display_name": "Standard Items Tracker - Horizontal"
+      },
+      "Standard": {
+        "display_name": "Standard Map Tracker - Broadcast (F2) Vertical"
+      },
+      "items_only": {
+        "display_name": "Standard Items Tracker - Vertical"
+      }
+    },
+    "name": "Minish Cap Randomizer Map Tracker - Help (F1)",
+    "version": "1.0.0.36",
+    "homepage": "https://minish.deoxis9001.tk/index.php",
+    "platform": "gba",
+    "author": "Deoxis9001",
+    "game": "Minish Cap Randomizer",
+    "bad-manifest": false,
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ]
+  },
+  "cavestory_duncathan": {
+    "version_url": "https://duncathan.github.io/csr-open-mode-tracker/cavestory_duncathan.zip",
+    "game": "Cave Story Randomizer",
+    "author": "duncathan_salt",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "bad-manifest": false,
+    "name": "Cave Story Randomizer Tracker",
+    "version": "2.0.0.1",
+    "platform": "PC",
+    "variants": {
+      "items_only": {
+        "display_name": "Item Tracker"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      }
+    }
+  },
+  "ff1_randomizer_zerilan": {
+    "bad-manifest": false,
+    "game": "Final Fantasy Randomizer",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Tracker"
+      },
+      "treasure_hunt": {
+        "display_name": "Treasure Hunt Tracker"
+      }
+    },
+    "flags": null,
+    "author": "Zerilan",
+    "platform": null,
+    "version": "1.1.0.0",
+    "version_url": "https://zerilan.github.io/ff1_randomizer_zerilan.zip",
+    "name": "FF1 Randomizer - Key Items and Locations"
+  },
+  "r&crando_itemtracker_myth_duke": {
+    "version": "1.1.2.3",
+    "variants": {
+      "items_only": {
+        "display_name": "Item Only Tracker"
+      },
+      "Standard": {
+        "display_name": "Standard Map Tracker"
+      }
+    },
+    "version_url": "https://github.com/Myth197/RAC-Rando-Tracker/blob/main/r&crando_itemtracker_myth_duke.zip?raw=true",
+    "homepage": "https://github.com/Myth197/RAC-Rando-Tracker/",
+    "platform": "PS3",
+    "game": "Ratchet and Clank",
+    "author": "Myth197 & DukeDragon28",
+    "bad-manifest": false,
+    "flags": [
+      "map"
+    ],
+    "name": "Ratchet and Clank Randomizer Item and Map Tracker"
+  },
+  "ootrando_jrjathome": {
+    "version_url": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_jrjathome.zip",
+    "game": "Ocarina of Time Randomizer",
+    "flags": null,
+    "homepage": "https://github.com/JRJathome/OoTRandoItemTracker/",
+    "name": "Items Only",
+    "variants": {
+      "layout1": {
+        "display_name": "Old Layout"
+      },
+      "layout1keysanity": {
+        "display_name": "Old Layout (with keys)"
+      },
+      "layout2": {
+        "display_name": "Compact Layout"
+      },
+      "layout1keyless": {
+        "display_name": "Old Layout (for keyless seeds)"
+      },
+      "layout2keysanity": {
+        "display_name": "Compact Layout (with keys)"
+      },
+      "layout2keyless": {
+        "display_name": "Compact Layout (for keyless seeds)"
+      }
+    },
+    "version": "2.0.2.0",
+    "bad-manifest": false,
+    "author": "JRJathome",
+    "platform": null
+  },
+  "ootr_map_tracker_spleebie_darkened5ky": {
+    "name": "OoTR Item Tracker",
+    "bad-manifest": false,
+    "version": "3.0.0.0",
+    "flags": [
+      "chathud"
+    ],
+    "version_url": "https://github.com/cheuer/ootr_map_tracker/releases/download/v3.0.0.0/ootr_map_tracker_spleebie_darkened5ky.zip",
+    "homepage": "https://github.com/cheuer/ootr_map_tracker/",
+    "game": "Ocarina of Time Randomizer",
+    "platform": null,
+    "variants": null,
+    "author": "Darkened5ky, Spleebie"
+  },
+  "oos_items_and_map_herreteman": {
+    "name": "Oracle of Seasons Randomizer",
+    "flags": null,
+    "author": "Herreteman",
+    "platform": null,
+    "version_url": "http://jaysee87.github.io/packages/oos_items_and_map_herreteman.zip",
+    "game": "Zelda Oracles Randomizer",
+    "bad-manifest": false,
+    "version": "2.4.1.0",
+    "variants": {
+      "hard": {
+        "display_name": "Map tracker - Hard Logic"
+      },
+      "dungeon_shuffle_hard": {
+        "display_name": "Dungeon shuffle - Hard Logic"
+      },
+      "dungeon_shuffle": {
+        "display_name": "Dungeon shuffle - Normal Logic"
+      },
+      "items_only": {
+        "display_name": "Items only"
+      },
+      "standard": {
+        "display_name": "Map tracker - Normal logic"
+      }
+    }
+  },
+  "alttsm_itemsonly_fouton": {
+    "version": "1.0.4.2",
+    "name": "PugHUD for SMZ3",
+    "game": "Super Metroid + LTTP Randomizer",
+    "variants": {
+      "keysanity": {
+        "display_name": "Keysanity"
+      },
+      "cwispy": {
+        "display_name": "Cwispy & Boss Rewards"
+      },
+      "classic": {
+        "display_name": "Golden Four"
+      }
+    },
+    "flags": [
+      "chathud"
+    ],
+    "platform": "snes",
+    "bad-manifest": false,
+    "author": "Fouton",
+    "version_url": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip"
+  },
+  "dark_souls_randomizer_magomerlin": {
+    "homepage": "https://magomerlin.github.io/DSR/README.html",
+    "version": "1.0.1.4",
+    "author": "MagoMerlin",
+    "flags": [
+      "chathud"
+    ],
+    "game": "Dark Souls Randomizer",
+    "version_url": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/DSR/dark_souls_randomizer_magomerlin.zip",
+    "bad-manifest": false,
+    "name": "Dark Souls Randomizer Tracker",
+    "platform": null,
+    "variants": null
+  },
+  "mmrando_rikkukun": {
+    "bad-manifest": false,
+    "author": "Rikkukun & epicYoshi",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "game": "Majora's Mask Randomizer",
+    "version": "2.1.2",
+    "name": "MM Randomizer Map Tracker",
+    "variants": {
+      "var_maptracker": {
+        "display_name": "Map Tracker"
+      },
+      "var_minimal": {
+        "display_name": "Minimal"
+      },
+      "var_standard": {
+        "display_name": "Standard"
+      }
+    },
+    "version_url": "https://Rikkukun.github.io/mmrando_rikkukun.zip",
+    "platform": null
+  },
+  "aos_rando_rocher": {
+    "author": "Rocher, jat2980",
+    "version_url": "https://rocherbrockas.github.io/Aria-of-sorrow/aos_rando_rocher.zip",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      }
+    },
+    "game": "Castlevania: Aria of Sorrow Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "bad-manifest": false,
+    "platform": "gba",
+    "version": "3.0",
+    "name": "Castlevania: Aria of Sorrow Randomizer"
+  },
+  "esalpha_tetraxz": {
+    "bad-manifest": false,
+    "version_url": "https://tetraxz.github.io/esalpha_tetraxz.zip",
+    "flags": null,
+    "platform": null,
+    "author": "TetraxZ",
+    "name": "ESAlpha Randomizer",
+    "game": "Environmental Station Alpha Randomizer",
+    "variants": null,
+    "version": "1.0.0.0"
+  },
+  "am2r_xenowars": {
+    "variants": {
+      "v_itemsonly": {
+        "display_name": "Items Only"
+      },
+      "standard": {
+        "display_name": "Map Tracker"
+      }
+    },
+    "platform": null,
+    "name": "AM2R Randomizer Tracker",
+    "author": "XenoWars",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "version": "2.0.1",
+    "bad-manifest": false,
+    "game": "AM2R Randomizer",
+    "version_url": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip"
+  },
+  "z1rando_dududedude": {
+    "game": "The Legend of Zelda Randomizer",
+    "version": "1.1.3.1",
+    "author": "Dudude Dude",
+    "bad-manifest": false,
+    "variants": {
+      "itemsonly": {
+        "display_name": "Items and Locations"
+      },
+      "compactoverworlddungeonmap": {
+        "display_name": "Palette-Based Overworld Map"
+      },
+      "overworlddungeonmap": {
+        "display_name": "Overworld Map"
+      }
+    },
+    "platform": "nes",
+    "flags": null,
+    "version_url": "https://dududedude.github.io/Dudude-s-Tinkering/z1rando_dududedude.zip",
+    "name": "Z1R Tracker"
+  },
+  "phasmophobia_crossproduct": {
+    "game": "Phasmophobia",
+    "variants": {
+      "default": {
+        "display_name": "Tall"
+      },
+      "wide": {
+        "display_name": "Wide"
+      }
+    },
+    "bad-manifest": false,
+    "platform": "pc",
+    "author": "crossproduct",
+    "version_url": "https://crossproduct42.github.io/storage/phasmophobia_crossproduct.zip",
+    "flags": [
+      "chathud"
+    ],
+    "version": "1.1.3",
+    "name": "Phasmophobia Evidence Tracker"
+  },
+  "ootrando_xopar": {
+    "variants": {
+      "extended_keysanity": {
+        "display_name": "Extended + Keysanity"
+      },
+      "compact_keysanity": {
+        "display_name": "Compact + Keysanity"
+      },
+      "compact": {
+        "display_name": "Compact"
+      },
+      "extended_items": {
+        "display_name": "Extended"
+      }
+    },
+    "name": "OoT Randomizer Item Tracker",
+    "game": "Ocarina of Time Randomizer",
+    "version": "1.3.0",
+    "version_url": "https://matthewkirby.github.io/ootr_tracker_emotracker/ootrando_xopar.zip",
+    "bad-manifest": false,
+    "author": "Xopar",
+    "platform": null,
+    "flags": null
+  },
+  "ladx_itemsonly_jrjathome": {
+    "flags": [
+      "chathud"
+    ],
+    "variants": null,
+    "platform": null,
+    "name": "LADX Randomizer - Items Only",
+    "author": "JRJathome",
+    "game": "Link's Awakening Randomizer",
+    "version_url": "https://github.com/JRJathome/LADXRandomizerTracker/raw/master/ladx_itemsonly_jrjathome.zip",
+    "bad-manifest": false,
+    "homepage": "https://github.com/JRJathome/LADXRandomizerTracker/",
+    "version": "1.0.0.10"
+  },
+  "tlozr_emotracker_magomerlin": {
+    "game": "The Legend of Zelda Randomizer",
+    "platform": null,
+    "bad-manifest": false,
+    "name": "TLOZ Randomizer Tracker",
+    "flags": [
+      "chathud"
+    ],
+    "variants": null,
+    "author": "MagoMerlin",
+    "version": "1.0.0.0",
+    "homepage": "https://magomerlin.github.io/TLOZR/README.html",
+    "version_url": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/TLOZR/tlozr_emotracker_magomerlin.zip"
+  },
+  "ladx_maptracker_muffinjets_wolfman2000": {
+    "homepage": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/blob/master/README.md",
+    "bad-manifest": false,
+    "name": "LADX Randomizer - Map and Item Tracker",
+    "platform": "gameboy",
+    "version": "2.0.5",
+    "author": "MuffinJets, wolfman2000",
+    "variants": {
+      "keys_only": {
+        "display_name": "Items Only - Keysanity Chest Counts"
+      },
+      "ladxr_base": {
+        "display_name": "LADXR Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Items Only"
+      },
+      "cave_shuffle": {
+        "display_name": "Entrance Randomizer Tracker"
+      },
+      "z4r_base": {
+        "display_name": "Z4R Map Tracker (Old)"
+      }
+    },
+    "game": "Link's Awakening Randomizer",
+    "flags": null,
+    "version_url": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/releases/download/2.0.5/ladx_maptracker_muffinjets_wolfman2000.zip"
+  },
+  "metroid_prime_randomizer_emotracker_eliasthompson": {
+    "version": "1.0.1",
+    "variants": {
+      "item_tracker_skinny": {
+        "display_name": "Item Tracker (Skinny)"
+      },
+      "item_tracker": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "platform": "randovania",
+    "bad-manifest": false,
+    "version_url": "https://eliasthompson.github.io/emotracker-package-repository/metroid_prime_randomizer_emotracker_eliasthompson.zip",
+    "game": "Metroid Prime Randomizer",
+    "flags": [
+      "chathud"
+    ],
+    "author": "Elias Thompson",
+    "name": "Metroid Prime Randomizer EmoTracker"
+  },
+  "smrando_saucerelic": {
+    "author": "SauceRelic",
+    "bad-manifest": false,
+    "version": "1.3.0.0",
+    "game": "Super Metroid Randomizer",
+    "name": "Super Metroid Randomizer",
+    "platform": null,
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "version_url": "https://saucerelic.github.io/smrando_saucerelic.zip",
+    "variants": null
+  },
+  "Wind-Waker-Item-and-Map-Tracker-Darkened5ky": {
+    "homepage": "https://github.com/Darkened5ky/Wind-Waker-Item-and-Map-Tracker/#readme",
+    "game": "Wind Waker Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "version": "2.0.3.0",
+    "version_url": "https://github.com/Darkened5ky/Wind-Waker-Item-and-Map-Tracker/releases/download/2.0.3.0b/Wind-Waker-Item-and-Map-Tracker-Darkened5ky.zip",
+    "name": "Wind Waker Item and Map Tracker",
+    "bad-manifest": true
+  },
+  "eldenring_items_and_map": {
+    "platform": "Multi",
+    "version_url": "https://github.com/herreteman/eldenring_items_and_map/releases/download/v1.0.1/eldenring_items_and_map.zip",
+    "game": "Elden Ring",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "homepage": "https://github.com/herreteman/eldenring_items_and_map/blob/main/README.md",
+    "version": "1.0.1.0",
+    "bad-manifest": false,
+    "name": "Elden Ring Randomizer Tracker",
+    "author": "Herreteman",
+    "variants": {
+      "items_only": {
+        "display_name": "Items Only"
+      },
+      "standard": {
+        "display_name": "Items + Map (Important locations)"
+      }
+    }
+  },
+  "alttpr_glitches_deserteagle417": {
+    "author": "deserteagle417, Spleebie",
+    "game": "A Link to the Past Randomizer",
+    "name": "ALTTPR Glitched Modes",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "keysanity": {
+        "display_name": "Keysanity Map Tracker"
+      }
+    },
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "platform": "snes",
+    "homepage": "https://github.com/cheuer/alttpr_glitches_deserteagle417/",
+    "version_url": "https://github.com/cheuer/alttpr_glitches_deserteagle417/releases/download/v2.0.2/alttpr_glitches_deserteagle417.zip",
+    "bad-manifest": false,
+    "version": "2.0.2"
+  },
+  "gato_roboto_tracker_muffinjets": {
+    "platform": "PC",
+    "author": "MuffinJets",
+    "version_url": "https://github.com/muffinjets/GatoRobotoMapTracker/releases/download/1.3.3/gato_roboto_tracker_muffinjets.zip",
+    "name": "Gato Roboto Randomizer Tracker",
+    "version": "1.3.3",
+    "bad-manifest": false,
+    "variants": null,
+    "flags": [
+      "map",
+      "pins",
+      "chathud"
+    ],
+    "homepage": "https://github.com/muffinjets/gato_roboto_tracker_muffinjets/blob/master/README.md",
+    "game": "Gato Roboto"
+  },
+  "tptracker_lunar": {
+    "author": "Lunar Soap and Chrono Triggered | Keanu",
+    "game": "Twilight Princess",
+    "platform": null,
+    "version": "2.0",
+    "bad-manifest": false,
+    "variants": {
+      "var_maptracker": {
+        "display_name": "Map Tracker"
+      },
+      "standard": {
+        "display_name": "SD Version"
+      },
+      "var_HD": {
+        "display_name": "HD Version"
+      }
+    },
+    "flags": [
+      "chathud"
+    ],
+    "version_url": "https://lunarsoap5.github.io/tptracker/tptracker_lunar.zip",
+    "name": "Twilight Princess Item Tracker",
+    "homepage": "https://github.com/lunarsoap5/tptracker/blob/master/README.md"
+  },
+  "ooa_items_and_map_herreteman_rain_reggx": {
+    "author": "Herreteman, Rain, ReggX",
+    "name": "Oracle of Ages Randomizer",
+    "bad-manifest": false,
+    "version_url": "http://jaysee87.github.io/packages/ooa_items_and_map_herreteman_rain_reggx.zip",
+    "version": "3.1.0.0",
+    "variants": {
+      "hard": {
+        "display_name": "Map tracker - Hard Logic"
+      },
+      "items_only": {
+        "display_name": "Items only"
+      },
+      "dungeon_shuffle": {
+        "display_name": "Dungeon shuffle - Normal Logic"
+      },
+      "standard": {
+        "display_name": "Map tracker - Normal logic"
+      },
+      "dungeon_shuffle_hard": {
+        "display_name": "Dungeon shuffle - Hard Logic"
+      }
+    },
+    "flags": null,
+    "platform": "gameboy",
+    "game": "Zelda Oracles Randomizer"
+  },
+  "ffmq_pack_x10power": {
+    "version": "1.0.1.1",
+    "version_url": "https://github.com/x10power/ffmq-rando-tracker/releases/download/First/ffmq-rando-tracker.zip",
+    "game": "Final Fantasy Mystic Quest",
+    "variants": {
+      "standard_map": {
+        "flags": [
+          "map"
+        ],
+        "display_name": "Standard Map"
+      },
+      "items_only": {
+        "display_name": "Items-Only"
+      }
+    },
+    "flags": [
+    ],
+    "name": "Final Fantasy Mystic Quest Randomizer Item Tracker",
+    "author": "x10power",
+    "bad-manifest": false,
+    "platform": "snes",
+    "homepage": "https://github.com/x10power/ffmq-rando-tracker/"
+  },
+  "ooe_rando_johnny": {
+    "bad-manifest": false,
+    "author": "JohnnyGo, JustLeeBelmont",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "version": "1.1.0",
+    "homepage": "https://github.com/Johnny-Go/OrderOfEcclesiaTracker",
+    "game": "Castlevania: Order of Ecclesia",
+    "version_url": "https://github.com/Johnny-Go/OrderOfEcclesiaTracker/releases/download/v1.1.0/OrderOfEcclesiaTracker.zip",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "platform": "Nintendo DS",
+    "name": "Castlevania: Order of Ecclesia Randomizer"
+  },
+  "iogr_emotracker_apokalysme": {
+    "homepage": "https://github.com/Apokalysme/iogr_emotracker_apokalysme/wiki",
+    "flags": [
+      "map",
+      "pins",
+      "autotracker"
+    ],
+    "platform": "snes",
+    "bad-manifest": false,
+    "game": "Illusion of Gaia Randomizer",
+    "version": "3.6.0.0",
+    "version_url": "https://Apokalysme.github.io/emotracker/iogr_emotracker_apokalysme.zip",
+    "name": "IoGR Map and Item Tracker",
+    "variants": {
+      "tracker_items_only_compact": {
+        "display_name": "Item Tracker - Compact",
+        "flags": [
+          "autotracker"
+        ]
+      },
+      "tracker_items_only_full": {
+        "flags": [
+          "autotracker"
+        ],
+        "display_name": "Item Tracker - Full"
+      },
+      "tracker_items_only_classic": {
+        "flags": [
+          "autotracker"
+        ],
+        "display_name": "Item Tracker - Classic"
+      },
+      "tracker_map_world": {
+        "display_name": "World Map Tracker"
+      }
+    },
+    "author": "Apokalysme"
+  },
+  "smrpgr_open_cynas": {
+    "platform": null,
+    "author": "Cynas",
+    "version_url": "https://cynas19.github.io/cynas.github.io/smrpgr_open_cynas.zip",
+    "flags": [
+      "chathud"
+    ],
+    "name": "SMRPG Open Randomizer Tracker",
+    "game": "Super Mario RPG Randomizer",
+    "bad-manifest": false,
+    "variants": {
+      "Items Only": {
+        "display_name": "Items Only"
+      },
+      "Full Tracker": {
+        "display_name": "Full Tracker"
+      },
+      "Minimalist": {
+        "display_name": "Minimalist"
+      },
+      "Map with Items and Characters": {
+        "display_name": "Map with Items and Characters"
+      },
+      "Items with Characters": {
+        "display_name": "Items with Characters"
+      },
+      "Items with Characters and Bosses": {
+        "display_name": "Items with Characters and Bosses"
+      },
+      "Key Item Shuffle and Star Hunt": {
+        "display_name": "Key Item Shuffle and Star Hunt"
+      },
+      "Items with Bosses": {
+        "display_name": "Items with Bosses"
+      }
+    },
+    "version": "2.0"
+  },
+  "Super-Mario-64-Randomizer-Tracker-ReedemtheD3ad!": {
+    "variants": null,
+    "game": "Super Mario 64",
+    "version": "1.1.1.1",
+    "flags": null,
+    "version_url": "https://github.com/ReedemtheD3ad/SM64R-Tracker/blob/master/Super-Mario-64-Randomizer-Tracker-ReedemtheD3ad!.zip?raw=true",
+    "name": "Super Mario 64 Randomizer Tracker",
+    "platform": null,
+    "bad-manifest": false,
+    "homepage": "https://github.com/ReedemtheD3ad/SM64R-Tracker/",
+    "author": "ReedemtheD3ad!"
+  },
+  "albw_items_and_map": {
+    "bad-manifest": false,
+    "homepage": "https://github.com/herreteman/albw_items_and_map/",
+    "version": "1.4.2.0",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "platform": "3ds",
+    "author": "Herreteman",
+    "name": "A Link Between Worlds Randomizer Tracker",
+    "variants": {
+      "standard": {
+        "display_name": "Default Settings"
+      },
+      "open": {
+        "display_name": "Open Settings"
+      },
+      "items_only": {
+        "display_name": "Items Only"
+      }
+    },
+    "version_url": "https://github.com/herreteman/albw_items_and_map/releases/download/v1.4.2/albw_items_and_map.zip"
+  },
+  "tmcrando_maptracker_cube": {
+    "version_url": "https://github.com/cubesolver111/TMCMapTracker/releases/download/v1.8.0.8/tmcrando_maptracker_cube.zip",
+    "name": "Minish Cap Randomizer Map Tracker",
+    "platform": "gba",
+    "bad-manifest": false,
+    "version": "1.8.0.8",
+    "homepage": "https://github.com/cubesolver111/TMCMapTracker/",
+    "author": "cubesolver111",
+    "game": "Minish Cap Randomizer",
+    "flags": [
+      "map",
+      "pins",
+      "chathud",
+      "autotracker"
+    ],
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      },
+      "items_only_keys": {
+        "display_name": "Item Tracker w/ Keys"
+      },
+      "keysanity": {
+        "display_name": "Keysanity Map Tracker"
+      },
+      "items_only": {
+        "display_name": "Items Only"
+      }
+    }
+  },
+  "ffv_anciencave_dotchan": {
+    "variants": {
+      "standard": {
+        "display_name": "SNES Cave"
+      },
+      "gba": {
+        "display_name": "GBA Cave"
+      }
+    },
+    "version_url": "https://github.com/dotchan17/ffv_ancientcave_dotchan/releases/download/v1.0.0.0/ffv_ancientcave_dotchan.zip",
+    "bad-manifest": false,
+    "version": "1.0.0.0",
+    "author": "dotchan",
+    "homepage": "https://github.com/dotchan17/ffv_ancientcave_dotchan/",
+    "flags": [
+      "chathud"
+    ],
+    "game": "Final Fantasy V",
+    "platform": null,
+    "name": "FFV Ancient Cave"
+  },
+  "pokemon_crystal_randomizer_dillon_vicendithas": {
+    "name": "Pokémon Crystal Item Randomizer",
+    "variants": {
+      "itemrando": {
+        "display_name": "Item and Badge Randomizer"
+      }
+    },
+    "platform": "gameboy",
+    "version_url": "https://github.com/vicendithas/pokemon-crystal-randomizer-tracker/releases/download/v5.0/pokemon-crystal-randomizer-dillon-vicendithas.zip",
+    "flags": [
+      "map",
+      "pins"
+    ],
+    "version": "5.0",
+    "homepage": "https://github.com/vicendithas/pokemon-crystal-randomizer-tracker/blob/master/README.md",
+    "bad-manifest": false,
+    "game": "Pokémon Crystal",
+    "author": "DillonIsMyName and Vicendithas"
+  },
+  "ff6wc": {
+    "platform": "snes",
+    "name": "FFVI Worlds Collide",
+    "game": "Final Fantasy VI",
+    "variants": {
+      "map_tracker": {
+        "display_name": "Map Tracker"
+      },
+      "standard": {
+        "display_name": "Gated Tracker"
+      },
+      "items_only": {
+        "display_name": "Item Tracker"
+      }
+    },
+    "version_url": "https://asilverthorn.github.io/FF6-Worlds-Collide-EmoTracker-repo/ff6wc.zip",
+    "bad-manifest": false,
+    "flags": [
+      "map",
+      "autotracker"
+    ],
+    "version": "1.1.0.2",
+    "author": "Eatitup_86, Anguirel, delassa, asilverthorn"
+  }
+}
